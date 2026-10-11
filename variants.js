@@ -383,7 +383,7 @@ window.DEFAULT_VARIANTS = {
       {
         "n": 7,
         "type": "input",
-        "text": "Вызначце колькасць цэлых рашэнняў сістэмы няроўнасцей\n   \\[\n   \\begin{cases}\n   \\frac{x+2}{2} - 3 \\le \\frac{x-3}{3}, \\\\\n   x^2 < 5x + 6.\n   \\end{cases}\n   \\]",
+        "text": "Вызначце колькасць цэлых рашэнняў сістэмы няроўнасцей $$ \begin{cases} \frac{x+2}{2} - 3 \le \frac{x-3}{3}, \\ x^2 < 5x + 6. \end{cases} $$",
         "accepted": [
           "6"
         ],
